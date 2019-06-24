@@ -1,1 +1,1 @@
-https://dorotaadamska.github.io/react_contacts/
+https://dorotaadamska.github.io/jsx_react_contacts/
