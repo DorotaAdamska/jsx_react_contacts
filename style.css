@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+.contactForm {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px;
+}
+
+input {
+    margin: 10px 50px;
+    border: 1px solid #0000ee;
+    border-radius: 2px;
+    min-width: 300px;
+    height: 25px;
+}
+
+button {
+    width: 200px;
+    height: 30px;;
+    background-color: #0000ee;
+    color: white;
+    margin: 20px;
+    text-transform: uppercase;
+}
+
+.contactsList {
+    padding: 0;
+}
+
+.contactItem {
+    text-align: center;
+    margin: 15px
+}
+
+.contactImage {
+    width: 200px;
+    opacity: 0.5;
+}
+
